@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/Boadzie/The-Oracle/issues"
   },
-  "homepage": "https://github.com/Boadzie/The-Oracle#readme"
+  "homepage": "https://github.com/Boadzie/The-Oracle#readme",
+  "engines": {
+    "node": "4.1.1"
+  }
 }
